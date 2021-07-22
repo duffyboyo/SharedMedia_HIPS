@@ -1,8 +1,10 @@
 local LSM = LibStub("LibSharedMedia-3.0")
 
-if (LSM == nil) then 
+if (LSM == nil) then
 	return 
 end
+
+print("HIPS Shared media Loaded")
 
 --background:
 
@@ -21,10 +23,3 @@ LSM:Register("sound", "HIPS: Bomb", [[Interface\Addons\SharedMedia_HIPS\sound\bo
 
 
 --end 
-
--- LSM:Register("background", "my background's name", [[Interface\Addons\SharedMedia_MyMedia\background\mybackground.tga]])
--- LSM:Register("border", "my border's name", [[Interface\Addons\SharedMedia_MyMedia files\myborder.tga]])
--- LSM:Register("font", "my font's name", [[Interface\Addons\SharedMedia_MyMedia\font\myfont.ttf]])
--- LSM:Register("font", "my friend's font", [[Interface\Addons\SharedMedia_MyMedia\font\friendsfont.ttf]])
--- LSM:Register("sound", "my sound's name", [[Interface\Addons\SharedMedia_MyMedia\sound\mysound.mp3]])
--- LSM:Register("statusbar", "my statusbar texture's name", [[Interface\Addons\SharedMedia_MyMedia\statusbar\mytexture.tga]])
