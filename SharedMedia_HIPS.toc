@@ -3,7 +3,7 @@
 ## Title: SharedMedia_HIPS
 ## Notes: HIPS Shared Media
 ## Author: duffyboyo
-## Version: 1.0.1
+## Version: 1.0.2
 
 #@no-lib-strip@
 Libs\LibStub\LibStub.lua
