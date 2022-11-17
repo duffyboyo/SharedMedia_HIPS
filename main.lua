@@ -22,6 +22,7 @@ LSM:Register("sound", "HIPS: Raid Warning", [[Interface\Addons\SharedMedia_HIPS\
 LSM:Register("sound", "HIPS: ZugZug Kick", [[Interface\Addons\SharedMedia_HIPS\sound\ZugZugKick.mp3]])
 LSM:Register("sound", "HIPS: Rayman Yeah", [[Interface\Addons\SharedMedia_HIPS\sound\RaymanYeah.mp3]])
 LSM:Register("sound", "HIPS: Angel Style", [[Interface\Addons\SharedMedia_HIPS\sound\AngelStyle.mp3]])
+LSM:Register("sound", "HIPS: Viking Raid", [[Interface\Addons\SharedMedia_HIPS\sound\TLVRaid.mp3]])
 
 --statusbar:
 
